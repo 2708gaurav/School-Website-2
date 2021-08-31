@@ -1,0 +1,56 @@
+input {
+    background: grey
+}
+
+.campus_maindiv {
+    border: 1px solid #FF5733;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.campus img {
+    width: 100%;
+}
+
+.campus_maindiv hr {
+    width: 230px;
+}
+
+.campus_maindiv h5,
+.travel_maindiv p {
+    margin-left: 20px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.travel_maindiv {
+    border: 1px solid #FF5733;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.travel img {
+    width: 100%;
+}
+
+.travel_maindiv hr {
+    width: 230px;
+}
+
+.travel_maindiv h5,
+.travel_maindiv p {
+    margin-left: 20px;
+}
